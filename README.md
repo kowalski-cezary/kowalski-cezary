@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Cezary Kowalski
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently studying Big Data at SGH Warsaw's School of Economics
-- 💞️ I’m looking to collaborate on Data Sciencie/Machine Learning related projects
+- 💞️ I’m looking to collaborate on Data Science/Machine Learning related projects
 - 📫 How to reach me :
 - kowalski.cezary00@gmail.com
 - https://www.linkedin.com/in/cezary-kowalski-320aa3203/
